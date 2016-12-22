@@ -1,3 +1,7 @@
+@import 'variables';
+
+
 .name {
-    font-size: 22px;
+    font-size: $fontPrimary;
+    color: $primaryColor;
 }

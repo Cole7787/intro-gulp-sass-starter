@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAIA,KAAK,CAAC;EACF,SAAS,EALC,IAAI;EAMd,KAAK,EALM,IAAI,GAMlB","file":"../styles.css","sourcesContent":["$fontPrimary: 22px;\n$primaryColor: teal;\n\n\n.name {\n    font-size: $fontPrimary;\n    color: $primaryColor;\n}\n"]}
